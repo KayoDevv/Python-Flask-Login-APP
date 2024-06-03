@@ -49,6 +49,8 @@ Set a secret key for session management
 
 **Create a logout route to allow users to log out.**
 
+# Feel free to add some google, Github integration to the login page !
+
 **Add a decorator function to check login status before accessing certain routes.**
 A decorator is just a function that takes another function as a parameter and returns another function.
 
