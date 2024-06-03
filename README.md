@@ -1,6 +1,3 @@
-# Python-Flask-Login-API
-Build a login API using Python Flask
-
 # Install requirements
 Clone the Workshop repository.
 Make sure you have Python, pip, and virtualenv installed.
